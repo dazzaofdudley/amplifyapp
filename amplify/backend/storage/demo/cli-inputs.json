@@ -1,0 +1,14 @@
+{
+  "resourceName": "demo",
+  "policyUUID": "e8bac0bc",
+  "bucketName": "consulting-intuita-dlt-demo",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger57b1ac81",
+  "groupAccess": {}
+}
