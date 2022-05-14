@@ -86,7 +86,6 @@ function App() {
           ))
         }
       </div>
-      <Authenticator>
         {({ signOut, user }) => (
           <div className="App">
             <p>
